@@ -3,8 +3,8 @@ let convert = Number(age)
 
 if(age >= 18)
 {
-    console.log("Eligible to vote");
+    console.log("People Eligible to vote");
 }else{
-    console.log("Not Eligible to vote");
+    console.log("People are Not Eligible to vote");
     
 }

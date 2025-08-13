@@ -12,7 +12,7 @@ let School = {
 let school02 = School
 school02.name = "Shahani"
 
-console.log(School.name);
+console.log(School.name); // Value change due to Heap Memory
 
 
 

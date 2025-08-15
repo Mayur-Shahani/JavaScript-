@@ -3,7 +3,7 @@ const apiData = {
     bio: undefined ?? "Not Available",
     followers: 0,
     posts: null ?? [3],
-    theme: "dark",
+    theme: undefined ?? "dark",
     
     
 };
